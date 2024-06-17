@@ -16,7 +16,7 @@ Usage example:
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url('https://pq.md/email/fonts/inter/files/InterVariable.woff2?v=4.0') format('woff2');
+  src: url('https://assets.pq.md/email/fonts/inter/files/InterVariable.woff2?v=4.0') format('woff2');
 }
 
 @font-face {
@@ -24,7 +24,7 @@ Usage example:
   font-style: italic;
   font-weight: 100 900;
   font-display: swap;
-  src: url('https://pq.md/email/fonts/inter/files/InterVariable-Italic.woff2?v=4.0') format('woff2');
+  src: url('https://assets.pq.md/email/fonts/inter/files/InterVariable-Italic.woff2?v=4.0') format('woff2');
 }
 
 /* legacy name "Inter var" (Oct 2023) */
@@ -33,7 +33,7 @@ Usage example:
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url('https://pq.md/email/fonts/inter/files/InterVariable.woff2?v=4.0') format('woff2');
+  src: url('https://assets.pq.md/email/fonts/inter/files/InterVariable.woff2?v=4.0') format('woff2');
 }
 
 @font-face {
@@ -41,7 +41,7 @@ Usage example:
   font-style: italic;
   font-weight: 100 900;
   font-display: swap;
-  src: url('https://pq.md/email/fonts/inter/files/InterVariable-Italic.woff2?v=4.0') format('woff2');
+  src: url('https://assets.pq.md/email/fonts/inter/files/InterVariable-Italic.woff2?v=4.0') format('woff2');
 }
 
 /* static fonts */
@@ -50,7 +50,7 @@ Usage example:
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Thin.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Thin.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -58,7 +58,7 @@ Usage example:
   font-style: italic;
   font-weight: 100;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-ThinItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-ThinItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -66,7 +66,7 @@ Usage example:
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-ExtraLight.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-ExtraLight.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -74,7 +74,7 @@ Usage example:
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-ExtraLightItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-ExtraLightItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -82,7 +82,7 @@ Usage example:
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Light.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Light.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -90,7 +90,7 @@ Usage example:
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-LightItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-LightItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -98,7 +98,7 @@ Usage example:
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Regular.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Regular.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -106,7 +106,7 @@ Usage example:
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Italic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Italic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -114,7 +114,7 @@ Usage example:
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Medium.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Medium.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -122,7 +122,7 @@ Usage example:
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-MediumItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-MediumItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -130,7 +130,7 @@ Usage example:
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-SemiBold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-SemiBold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -138,7 +138,7 @@ Usage example:
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-SemiBoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-SemiBoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -146,7 +146,7 @@ Usage example:
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Bold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Bold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -154,7 +154,7 @@ Usage example:
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-BoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-BoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -162,7 +162,7 @@ Usage example:
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-ExtraBold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-ExtraBold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -170,7 +170,7 @@ Usage example:
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-ExtraBoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-ExtraBoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -178,7 +178,7 @@ Usage example:
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-Black.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-Black.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -186,7 +186,7 @@ Usage example:
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/Inter-BlackItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/Inter-BlackItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -194,7 +194,7 @@ Usage example:
   font-style: normal;
   font-weight: 100;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Thin.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Thin.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -202,7 +202,7 @@ Usage example:
   font-style: italic;
   font-weight: 100;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-ThinItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-ThinItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -210,7 +210,7 @@ Usage example:
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-ExtraLight.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-ExtraLight.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -218,7 +218,7 @@ Usage example:
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-ExtraLightItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-ExtraLightItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -226,7 +226,7 @@ Usage example:
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Light.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Light.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -234,7 +234,7 @@ Usage example:
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-LightItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-LightItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -242,7 +242,7 @@ Usage example:
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Regular.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Regular.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -250,7 +250,7 @@ Usage example:
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Italic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Italic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -258,7 +258,7 @@ Usage example:
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Medium.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Medium.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -266,7 +266,7 @@ Usage example:
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-MediumItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-MediumItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -274,7 +274,7 @@ Usage example:
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-SemiBold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-SemiBold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -282,7 +282,7 @@ Usage example:
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-SemiBoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-SemiBoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -290,7 +290,7 @@ Usage example:
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Bold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Bold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -298,7 +298,7 @@ Usage example:
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-BoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-BoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -306,7 +306,7 @@ Usage example:
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-ExtraBold.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-ExtraBold.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -314,7 +314,7 @@ Usage example:
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-ExtraBoldItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-ExtraBoldItalic.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -322,7 +322,7 @@ Usage example:
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-Black.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-Black.woff2?v=4.0") format("woff2");
 }
 
 @font-face {
@@ -330,5 +330,5 @@ Usage example:
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url("https://pq.md/email/fonts/inter/files/InterDisplay-BlackItalic.woff2?v=4.0") format("woff2");
+  src: url("https://assets.pq.md/email/fonts/inter/files/InterDisplay-BlackItalic.woff2?v=4.0") format("woff2");
 }
